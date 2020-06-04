@@ -1,4 +1,4 @@
-country,date,cum_cases
+pais,fecha,casos_acum
 Germany,2020-02-18,16
 Iran,2020-02-18,0
 Italy,2020-02-18,3
