@@ -1,4 +1,4 @@
-country,province,date,cases,cum_cases
+pais,provincia,fecha,casos,casos_acum
 Afghanistan,,2020-01-22,0,0
 Albania,,2020-01-22,0,0
 Algeria,,2020-01-22,0,0
